@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Welcome to Arintech !'
+                echo 'Welcome to Arintech Mohd Shavej!'
             }
         }
     }
